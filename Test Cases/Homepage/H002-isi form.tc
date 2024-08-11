@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>H002-isi form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8381c64e-98b4-44fd-99f9-a88d8f992c0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>506e2d33-e5bb-4438-acff-73b8f50b8acb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbdaa673-7d17-4738-9459-5d1616cf3118</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f19b131f-7b39-428d-97ea-0d997cc94484</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d05de7e0-f37a-4a5a-9fe8-aa2c0b6526da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>506e2d33-e5bb-4438-acff-73b8f50b8acb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>fbdaa673-7d17-4738-9459-5d1616cf3118</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicare;Medicaid;None'</defaultValue>
+      <description></description>
+      <id>f19b131f-7b39-428d-97ea-0d997cc94484</id>
+      <masked>false</masked>
+      <name>programData</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>d05de7e0-f37a-4a5a-9fe8-aa2c0b6526da</id>
+      <masked>false</masked>
+      <name>close</name>
+   </variable>
+</TestCaseEntity>

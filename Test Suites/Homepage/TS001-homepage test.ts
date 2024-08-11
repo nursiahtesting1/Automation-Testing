@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS001-homepage test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>bbbb579f-cb18-4a31-84c8-127a2668f602</testSuiteGuid>
+   <testCaseLink>
+      <guid>cc03a571-3482-411f-8ca5-7bd378933c01</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Homepage/H001 - Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>192f6cf7-fe31-4bfc-a281-e03cddf753b7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/user/User</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>192f6cf7-fe31-4bfc-a281-e03cddf753b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>506e2d33-e5bb-4438-acff-73b8f50b8acb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>192f6cf7-fe31-4bfc-a281-e03cddf753b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>fbdaa673-7d17-4738-9459-5d1616cf3118</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8591ac89-5fde-41e9-bddf-320890742703</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5acd37ea-8ef5-4adc-9cd6-0848d62cb98d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Homepage/H002-isi form</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>506e2d33-e5bb-4438-acff-73b8f50b8acb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fbdaa673-7d17-4738-9459-5d1616cf3118</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f19b131f-7b39-428d-97ea-0d997cc94484</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d05de7e0-f37a-4a5a-9fe8-aa2c0b6526da</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d93bde9a-ad11-4a3e-b5bf-73a0e4b9b463</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7ff6ab4-99e4-436d-b226-c5cad928b861</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75f0a104-a8ab-489d-988f-dc2d2cc778ac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75bb4fd4-25c8-4af3-b666-2f85b25be8d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7ff6ab4-99e4-436d-b226-c5cad928b861</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75f0a104-a8ab-489d-988f-dc2d2cc778ac</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>75bb4fd4-25c8-4af3-b666-2f85b25be8d0</id>
+      <masked>false</masked>
+      <name>close</name>
+   </variable>
+</TestCaseEntity>

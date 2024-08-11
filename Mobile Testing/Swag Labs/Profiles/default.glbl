@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bs://95905368bc360607415440092f2168feb73a480a'</initValue>
+      <name>APK</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS-Insert</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>bb16618e-f9a8-4012-ad05-d249af6c87bd</testSuiteGuid>
+   <testCaseLink>
+      <guid>4a09c5c0-5e18-409d-aed2-406147c6aaf8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test-API/TC-Insert</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>be2923fb-097f-433c-8ec9-09f3e0c8ff63</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data-user</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0da75f7f-c0cb-490c-934d-75dfb0fddd16</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>be2923fb-097f-433c-8ec9-09f3e0c8ff63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>first_name</value>
+         <variableId>9e51ca3c-fb0f-489d-97cf-da4a014874c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>be2923fb-097f-433c-8ec9-09f3e0c8ff63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>last_name</value>
+         <variableId>262f56b9-05b5-4f4d-ae9e-5071fdb93f25</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>be2923fb-097f-433c-8ec9-09f3e0c8ff63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>9934ac44-f679-46d7-be1c-fd7d1a8d12cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>be2923fb-097f-433c-8ec9-09f3e0c8ff63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>job</value>
+         <variableId>75bc5be3-ed78-4278-9c8d-6a0af2e92bb0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

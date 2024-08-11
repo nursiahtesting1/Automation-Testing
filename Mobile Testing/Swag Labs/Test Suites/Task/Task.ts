@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Task</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>680a2a17-82c6-4f30-933c-4bd968792c37</testSuiteGuid>
+   <testCaseLink>
+      <guid>d8063860-0b92-4a4e-a56f-918fac9a64df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/L003-Task</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>884fe943-b965-4fcc-9aa0-36fa4a402653</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data User/Data User</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>884fe943-b965-4fcc-9aa0-36fa4a402653</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>64f5a7f4-31bb-4264-9e2c-56e91bb5fb50</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>884fe943-b965-4fcc-9aa0-36fa4a402653</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>d1dd431a-79f7-4c99-b2b8-0624b5dac9a7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>884fe943-b965-4fcc-9aa0-36fa4a402653</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>597d0ca1-62ab-499c-9339-f6d70a1b464c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>884fe943-b965-4fcc-9aa0-36fa4a402653</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>7f0dfc2e-3ee8-4c3d-bed0-8a2fd6013c2f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>884fe943-b965-4fcc-9aa0-36fa4a402653</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>zippostalcode</value>
+         <variableId>42aebe91-474a-4d08-9b72-48c0a8e52ad3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d433b0c0-0c2d-4219-9251-a9782c522542</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
